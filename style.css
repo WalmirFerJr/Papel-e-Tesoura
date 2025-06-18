@@ -1,18 +1,21 @@
 * {
     font-family: consolas;
     font-size: 16px;
-
+    margin: 0;
+    padding: 0;
 }
 
 body {
     background-color: rgb(73, 55, 90);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 main {
     background-color: white;
     width: 500px;
-    margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.221);
     padding: 10px;
-    align-content: center;
 }
