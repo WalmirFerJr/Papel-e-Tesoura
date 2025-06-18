@@ -14,4 +14,5 @@ main {
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.221);
     padding: 10px;
+    align-content: center;
 }
