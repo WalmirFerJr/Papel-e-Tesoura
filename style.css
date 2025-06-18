@@ -22,6 +22,11 @@ main {
 }
 
 h2 {
+    font-size: 14px;
+    margin: 10px;
+}
+
+p {
     font-size: 12px;
     margin: 10px;
 }
