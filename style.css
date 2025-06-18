@@ -20,3 +20,8 @@ main {
     padding: 10px;
     text-align: center;
 }
+
+h2 {
+    font-size: 12px;
+    margin: 10px;
+}
